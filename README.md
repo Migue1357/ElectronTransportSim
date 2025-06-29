@@ -34,6 +34,7 @@ El script simula la trayectoria de electrones sometidos a colisiones y un campo 
 
 ```bash
 python ElectronTransportSim.py
+```
 
 2. Ingresa los parámetros en la interfaz gráfica:
 
