@@ -32,7 +32,8 @@ El script simula la trayectoria de electrones sometidos a colisiones y un campo 
 
 1. Ejecuta el script en tu terminal o entorno Python:
 
-- python ElectronTransportSim.py
+```bash
+python ElectronTransportSim.py
 
 2. Ingresa los parámetros en la interfaz gráfica:
 
