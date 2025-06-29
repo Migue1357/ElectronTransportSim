@@ -14,7 +14,11 @@ Para instalar las librerías necesarias, ejecuta en tu terminal (bash, PowerShel
 
 ```bash
 pip install numpy
+```
+```bash
 pip install matplotlib
+```
+```bash
 pip install tkinter
 ```
 ## Descripción del script
