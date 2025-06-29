@@ -12,10 +12,11 @@ Este repositorio contiene un script en Python diseñado para simular la **difusi
 
 Para instalar las librerías necesarias, ejecuta en tu terminal (bash, PowerShell o CMD):
 
-- pip install numpy
-- pip install matplotlib
-- pip install tkinter
-
+```bash
+pip install numpy
+pip install matplotlib
+pip install tkinter
+```
 ## Descripción del script
 
 El script simula la trayectoria de electrones sometidos a colisiones y un campo magnético uniforme, calculando parámetros físicos como la frecuencia de colisión, frecuencia ciclotrón y radio de Larmor. Permite visualizar:
