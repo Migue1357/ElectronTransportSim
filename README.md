@@ -12,9 +12,9 @@ Este repositorio contiene un script en Python diseñado para simular la **difusi
 
 Para instalar las librerías necesarias, ejecuta en tu terminal (bash, PowerShell o CMD):
 
-pip install numpy
-pip install matplotlib
-pip install tkinter
+- pip install numpy
+- pip install matplotlib
+- pip install tkinter
 
 ## Descripción del script
 
@@ -32,7 +32,7 @@ El script simula la trayectoria de electrones sometidos a colisiones y un campo 
 
 1. Ejecuta el script en tu terminal o entorno Python:
 
-python ElectronTransportSim.py
+  python ElectronTransportSim.py
 
 2. Ingresa los parámetros en la interfaz gráfica:
 
