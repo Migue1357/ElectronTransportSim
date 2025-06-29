@@ -62,5 +62,4 @@ Para dudas o sugerencias, puedes abrir un issue en este repositorio.
 
 ## Licencia
 
-Este proyecto está bajo licencia MIT. Puedes usarlo y modificarlo libremente.
-
+Este proyecto está bajo licencia MIT. Puedes usarlo y modificarlo libremente siempre que incluyas el aviso de derechos de autor incluido en LICENSE en todas las copias o porciones sustanciales del Software.
